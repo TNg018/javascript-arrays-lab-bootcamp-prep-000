@@ -22,3 +22,8 @@ function destructivelyAppendKitten(kitten) {
   kittens.push("Ralph")
   return kitten
 }
+
+function destructivelyPrependKitten(kitten) {
+  kittens.unshift("name")
+  return kitten
+}
