@@ -17,4 +17,3 @@ return ["Arnold", ...kittens]
 function appendKitten(name) {
   return [...kittens, name]
 }
-
