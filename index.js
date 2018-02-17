@@ -18,9 +18,3 @@ function appendKitten(name) {
   return [...kittens, name]
 }
 
-function destructivelyAppendKitten(name) {
-  kitten.push("Ralph")
-
-return kitten
-kitten = kitten.push("Ralph")
-}
