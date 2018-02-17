@@ -22,4 +22,5 @@ function destructivelyAppendKitten(name) {
   kitten.push("Ralph")
 
 return kitten
+kitten = kitten.push("Ralph")
 }
