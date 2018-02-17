@@ -28,7 +28,7 @@ function destructivelyPrependKitten(kitten) {
   return kitten
 }
 
-function destructivelyRemoveFirstKitten(kitten) {
+function destructivelyRemoveFirstKitten() {
   kittens.unshift()
   return kitten
 }
