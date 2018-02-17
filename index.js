@@ -21,5 +21,5 @@ function appendKitten(name) {
 kitten = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendKitten(name) {
-  return
+  return kitten.push("Ralph")
 }
