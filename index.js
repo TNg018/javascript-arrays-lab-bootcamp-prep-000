@@ -1,4 +1,4 @@
-kitten = ["Milo", "Otis", "Garfield"];
+var kitten = ["Milo", "Otis", "Garfield"];
 
 function removeFirstKitten() {
   return kitten.slice(1)
