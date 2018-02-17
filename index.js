@@ -30,5 +30,5 @@ function destructivelyPrependKitten(kitten) {
 
 function destructivelyRemoveFirstKitten(kittens) {
   kittens.unshift()
-const kittens = ["Milo", "Otis", "Garfield"];
+const kitten = ["Milo", "Otis", "Garfield"];
 }
