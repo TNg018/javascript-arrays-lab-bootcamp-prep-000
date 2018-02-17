@@ -31,4 +31,5 @@ function destructivelyPrependKitten(kitten) {
 function destructivelyRemoveFirstKitten(kitten) {
   kittens.unshift()
   return kittens
+  const morekittens = ["Otis", "Garfield"]
 }
