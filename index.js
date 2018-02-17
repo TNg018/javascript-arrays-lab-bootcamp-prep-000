@@ -28,7 +28,6 @@ function destructivelyPrependKitten(kitten) {
   return kitten
 }
 
-const kittens = ["Milo", "Otis", "Garfield"];
 
 function destructivelyRemoveFirstKitten() {
   kitten.shift()
