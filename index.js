@@ -2,7 +2,7 @@ kitten = ["Milo", "Otis", "Garfield"];
 
 function removeFirstKitten() {
   return kitten.slice(1)
-kitten = var kitten.slice(1)
+kitten = kitten.slice(1)
 }
 
 function removeLastKitten() {
